@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 aormaan
+=======
+armaan
+aorman
+>>>>>>> a8f97d68ca65580aef04c7b0d99f55c1d12f32da
